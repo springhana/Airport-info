@@ -34,7 +34,7 @@ function Check() {
               setTime(e.target.textContent);
             }}
           >
-            {basetime}시
+            {basetime}
           </div>
         ))}
         <div className="time_about" onClick={About}>
